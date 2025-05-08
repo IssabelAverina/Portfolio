@@ -2,7 +2,7 @@
 ### Technical: Python, SQL, Java, SPSS, Tableau
 
 ## Education
-**BINUS UNIVERSITY** (2022 - Present) 
+**BINUS UNIVERSITY** (2022 - Present)  
 Bachelor of Science and Bachelor of Economics  
 Majoring in Information Systems and Management
 
