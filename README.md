@@ -3,8 +3,8 @@
 
 ### Education
 **BINUS UNIVERSITY**
-Bachelor of Science and Bachelor of Economics
-Majoring in Information Systems and Management
+\n Bachelor of Science and Bachelor of Economics
+\n Majoring in Information Systems and Management
 
 ### Experience
 **Part-time Teaching Assistant @ BINUS Information Systems Laboratory (February 2025) – (Present)**
