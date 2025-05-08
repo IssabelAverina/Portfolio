@@ -1,12 +1,12 @@
 # Portfolio
 ### Technical: Python, SQL, Java, SPSS, Tableau
 
-### Education
+## Education
 **BINUS UNIVERSITY**  
 Bachelor of Science and Bachelor of Economics  
 Majoring in Information Systems and Management
 
-### Experience
+## Experience
 **Part-time Teaching Assistant @ BINUS Information Systems Laboratory (February 2025) – (Present)**
 - Delivered weekly instruction on Information Systems Analysis and Design and Data Fundamentals to students, ensuring clear understanding of core concepts.
 - Conducted regular training sessions to enhance technical expertise in both subjects to stay updated with current industry standards.
@@ -26,9 +26,12 @@ Majoring in Information Systems and Management
 - Handled daily office operations, answering and directing phone calls, planning meetings, and monitoring day-to-day matters.
 
 
-### Projects
-## Data Projects
-## System Analyst Project
+## Projects
+### Personal Projects
+### University Projects
 
-### Courses and Certifications
+
+## Courses and Certifications
+- The Data Science Course: Complete Data Science Bootcamp 2025 by Udemy
+-  Hashmicro HRM Software
 
