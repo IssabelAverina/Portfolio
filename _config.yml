@@ -1,7 +1,7 @@
 title: Issabel Averina
 logo: assets/ProfilePic.jpg
 description: "Email: issabelaverina18@gmail.com  www.linkedin.com/in/issabelaverina"
-theme: jekyll-theme-minima
+theme: jekyll-theme-minimal
 header_pages:
   - about.md
   - experience.md
