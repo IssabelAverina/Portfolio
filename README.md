@@ -1,5 +1,5 @@
 # Portfolio
-### Technical: Python, SQL, Java, SPSS, Tableau
+#### Technical: Python, SQL, Java, SPSS, Tableau
 
 ## Education
 **BINUS UNIVERSITY** (2022 - Present)  
