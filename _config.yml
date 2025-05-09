@@ -1,6 +1,6 @@
 title: Issabel Averina
-logo: /assets/ProfilePic.jpg
-description: Aspiring Data Professional | Email: issabelaverina18@gmail.com | [LinkedIn](https://www.linkedin.com/in/issabelaverina)
+logo: assets/ProfilePic.jpg
+description: "Email: issabelaverina18@gmail.com  www.linkedin.com/in/issabelaverina"
 theme: jekyll-theme-minima
 header_pages:
   - about.md
