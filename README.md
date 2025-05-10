@@ -29,7 +29,8 @@ Majoring in Information Systems and Management
 ## Projects
 ### Personal Projects
 - A [Vehicle Classifier](https://github.com/IssabelAverina/PersonalProjects/tree/d5b05946aff38fe14782d18aeecd39d305a1d5b7/VehicleClassifier) that could identify 17 different vehicle types with a final model accuracy of 95%
-![alt text](https://github.com/IssabelAverina/PersonalProjects/blob/d5b05946aff38fe14782d18aeecd39d305a1d5b7/VehicleClassifier/vehicleMatrix.png)
+![Vehicle Confusion Matrix](https://raw.githubusercontent.com/IssabelAverina/PersonalProjects/d5b05946aff38fe14782d18aeecd39d305a1d5b7/VehicleClassifier/vehicleMatrix.png)
+
 ### University Projects
 
 
